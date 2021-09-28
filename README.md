@@ -1,2 +1,2 @@
 # The Jacks Of All Trades
-This is our first git team based prject by Andrew L and Brody B
+This is our first git team based project by Andrew L and Brody B
